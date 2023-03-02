@@ -4,7 +4,7 @@ function Invoke-TailScaleMonitor {
     
     $SleepSeconds = 60,
 
-    $LocalSSID = "ORBI14"
+    $LocalSSID = ""
     )
     
     begin {
